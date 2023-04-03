@@ -1,3 +1,5 @@
+package GFG;
+
 public class BinarySearch_InfiniteArray {
     public static void main(String[] args) {
         //start with the box of size 2

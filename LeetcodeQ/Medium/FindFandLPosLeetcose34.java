@@ -1,4 +1,4 @@
-package LeetcodeQ;
+package LeetcodeQ.Medium;
 
 public class FindFandLPosLeetcose34 {
     public static void main(String[] args) {

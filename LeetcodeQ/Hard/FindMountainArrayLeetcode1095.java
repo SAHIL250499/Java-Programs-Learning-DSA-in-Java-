@@ -1,4 +1,4 @@
-package LeetcodeQ;
+package LeetcodeQ.Hard;
 
 public class FindMountainArrayLeetcode1095 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package LeetcodeQ;
+package LeetcodeQ.Easy;
 
 public class SmallestLetterLeetcode744 {
     public static void main(String[] args) {

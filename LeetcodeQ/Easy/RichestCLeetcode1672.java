@@ -1,4 +1,4 @@
-package LeetcodeQ;
+package LeetcodeQ.Easy;
 
 public class RichestCLeetcode1672 {
     public static void main(String[] args) {
