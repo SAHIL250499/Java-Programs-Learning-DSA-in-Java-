@@ -4,7 +4,7 @@ Easy - 3,Medium - 3,Hard - 20
 
 Categories
 
-|[Arrays](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main//# arrays) |[Functions](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main//# functions) |[GFG](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main//# gfg) |[LeetcodeQ](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main//# leetcodeq) |[Others](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main//# others) |[Switch](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main//# switch) |
+| [Arrays](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/#arrays) | [Functions](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/#functions) | [GFG](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/#gfg) | [LeetcodeQ](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/#leetcodeq) | [Others](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/#others) | [Switch](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/#switch) |
 
 ----
 ### [Arrays](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Arrays)
