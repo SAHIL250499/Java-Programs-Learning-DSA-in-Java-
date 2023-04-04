@@ -39,6 +39,9 @@ for(let i=0;i<catDirArray.length;i++){
        const files=getDirectories(ROOT_DIR+item+'/'+level,exclude);
        superitem['levels'][level] =files;
     }
+    else{
+      superitem['levels'][level]="";
+    }
     
   }
   index.push(item);
