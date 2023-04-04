@@ -33,7 +33,7 @@ for(let i=0;i<catDirArray.length;i++){
 
   for(let j=0;j< levelDirArray.length;j++){
     const level=levelDirArray[j];
-    const stats=fs.statSync(ROOT_DIR+item+'/'+level);
+    const stats=fs.existsSync(ROOT_DIR+item+'/'+level) && fs.lstatSync(ROOT_DIR+item+'/'+level).isDirectory();
     if(stats){
         let files=getDirectories(ROOT_DIR+item+'/'+level,exclude);
         superitem['levels'][level] =files;
