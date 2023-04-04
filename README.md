@@ -1,4 +1,4 @@
-Total Problems Solved - 9
+Total Problems Solved - 10
 
 Easy - 3,Medium - 3,Hard - 2
 
@@ -26,6 +26,7 @@ Categories
 
 - [Test](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Functions/Test)
 	 - [Test.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Functions/Test/Test.java)
+	 - [test2](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Functions/Test/test2)
 
 ---
 ### [GFG](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/GFG)
