@@ -1,5 +1,5 @@
 const fs=require('fs');
-const exclude=['.git','.github','README.md','package.json','readme.js'];
+const exclude=['.git','.github','README.md','package.json','readme.js',''];
 const ROOT_DIR = './';
 const index = [];
 
@@ -34,17 +34,16 @@ for(let i=0;i<catDirArray.length;i++){
   for(let j=0;j< levelDirArray.length;j++){
     const level=levelDirArray[j];
     const stats = fs.statSync(ROOT_DIR+item+'/'+level);
-    
-    if(stats.isDirectory()){
-       const files=getDirectories(ROOT_DIR+item+'/'+level,exclude);
-       superitem['levels'][level] =files;
+    if(stats){
+    const files=getDirectories(ROOT_DIR+item+'/'+level,exclude);
     }
     else{
-      superitem['levels'][level]="";
+    const files=[];
     }
+    superitem['levels'][level] =files;
     
   }
-  index.push(item);
+  index.push(superitem);
 }
 
 let Pipe='|';
