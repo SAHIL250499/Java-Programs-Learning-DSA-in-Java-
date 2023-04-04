@@ -1,4 +1,4 @@
-Total Problems Solved - 8
+Total Problems Solved - 9
 
 Easy - 3,Medium - 3,Hard - 2
 
@@ -23,6 +23,9 @@ Categories
 - [Prime.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Functions/Prime.java)
 
 - [Swap.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Functions/Swap.java)
+
+- [Test](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Functions/Test)
+	 - [Test.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Functions/Test/Test.java)
 
 ---
 ### [GFG](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/GFG)
