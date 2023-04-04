@@ -28,7 +28,7 @@ for(let i=0;i<catDirArray.length;i++){
         item:item,
         levels:{},
   };
-  const levelDirArray=getDirectories(ROOT_DIR+item,exclude);
+  const levelDirArray=getDirectories(ROOT_DIR+item+"/",exclude);
 
   for(let j=0;j< levelDirArray.length;j++){
     const level=levelDirArray[j];
