@@ -32,7 +32,7 @@ for(let i=0;i<catDirArray.length;i++){
 
   for(let j=0;j< levelDirArray.length;j++){
     const level=levelDirArray[j];
-    const files=getDirectories(ROOT_DIR+'/'+item+'/'+level,exclude);
+    const files=getDirectories(ROOT_DIR+item+'/'+level,exclude);
     superitem['levels'][level] =files;
   }
   index.push(item);
