@@ -42,15 +42,6 @@ for(let i=0;i<catDirArray.length;i++){
         superitem['levels'][level]=[level];
     }
 
-    const stats = fs.statSync(ROOT_DIR+item+'/'+level);
-    if(stats){
-    const files=getDirectories(ROOT_DIR+item+'/'+level,exclude);
-    }
-    else{
-    const files=[];
-    }
-    superitem['levels'][level] =files;
-
   }
   index.push(superitem);
 }
