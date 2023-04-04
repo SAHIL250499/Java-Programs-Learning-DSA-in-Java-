@@ -1,7 +1,3 @@
-### [.gitignore](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/.gitignore)
-
-
-----
 ### [Arrays](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Arrays)
 
 
