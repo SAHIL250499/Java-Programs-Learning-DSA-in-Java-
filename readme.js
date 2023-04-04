@@ -11,7 +11,6 @@ const GITHUB_BRANCH_NAME = 'main';
 const GITHUB_REPO_URL = 'https://github.com/' + GITHUB_USERNAME + '/' + GITHUB_REPO_NAME;
 const GITHUB_REPO_BLOB_URL = GITHUB_REPO_URL + '/blob/' + GITHUB_BRANCH_NAME+'/';
 
-
 let count = 0;
 let easy = 0, medium = 0, hard = 0;
 
@@ -34,6 +33,7 @@ for(let i=0;i<catDirArray.length;i++){
   for(let j=0;j< levelDirArray.length;j++){
     const level=levelDirArray[j];
     const stats=fs.existsSync(ROOT_DIR+item+'/'+level) && fs.lstatSync(ROOT_DIR+item+'/'+level).isDirectory();
+
     if(stats){
         let files=getDirectories(ROOT_DIR+item+'/'+level,exclude);
         superitem['levels'][level] =files;
@@ -63,21 +63,21 @@ for(let i=0;i<index.length;i++){
     for (let j=0;j<levels.length;j++){
         if(item.levels[levels[j]]){
             content+=`- [${levels[j]}](${GITHUB_REPO_BLOB_URL}${item.item}/${levels[j]})\n`;
-
             if(levels[j]==='Easy'){
                 easy+=item.levels[levels[j]].length;
             }
-            else if(levels[j] === "Medium"){
+            if(levels[j] === "Medium"){
                 medium+=item.levels[levels[j]].length;
             }
-            else{
+            if(levels[j] === "Hard"){
                 hard+=item.levels[levels[j]].length;
             }
-
+            if(levels[j] != item.levels[levels[j]] ){
             for(let l=0;l<item.levels[levels[j]].length;l++){
                 const file=item.levels[levels[j]][l];
                 content+=`\t - [${file}](${GITHUB_REPO_BLOB_URL}${item.item}/${levels[j]}/${file})\n`;
                 count++;
+            }
             }
             content+='\n';
 
