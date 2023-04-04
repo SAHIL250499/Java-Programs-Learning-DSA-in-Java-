@@ -11,6 +11,7 @@ const GITHUB_BRANCH_NAME = 'main';
 const GITHUB_REPO_URL = 'https://github.com/' + GITHUB_USERNAME + '/' + GITHUB_REPO_NAME;
 const GITHUB_REPO_BLOB_URL = GITHUB_REPO_URL + '/blob/' + GITHUB_BRANCH_NAME+'/';
 
+
 let count = 0;
 let easy = 0, medium = 0, hard = 0;
 
@@ -32,7 +33,9 @@ for(let i=0;i<catDirArray.length;i++){
 
   for(let j=0;j< levelDirArray.length;j++){
     const level=levelDirArray[j];
-    if((getDirectories(ROOT_DIR+item+'/'+level,exclude)).isDirectory()){
+    const stats = fs.statSync(ROOT_DIR+item+'/'+level);
+    
+    if(stats.isDirectory()){
        const files=getDirectories(ROOT_DIR+item+'/'+level,exclude);
     }
     superitem['levels'][level] =files;
