@@ -32,10 +32,17 @@ for(let i=0;i<catDirArray.length;i++){
 
   for(let j=0;j< levelDirArray.length;j++){
     const level=levelDirArray[j];
-    const files=getDirectories(ROOT_DIR+item+'/'+level,exclude);
-    superitem['levels'][level] =files;
+    const stats=fs.statSync(ROOT_DIR+item+'/'+level);
+    if(stats){
+        let files=getDirectories(ROOT_DIR+item+'/'+level,exclude);
+        superitem['levels'][level] =files;
+    }
+    else{
+        superitem['levels'][level]=[level];
+    }
+
   }
-  index.push(item);
+  index.push(superitem);
 }
 
 let Pipe='|';
