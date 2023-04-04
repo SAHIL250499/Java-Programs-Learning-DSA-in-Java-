@@ -28,11 +28,13 @@ for(let i=0;i<catDirArray.length;i++){
         item:item,
         levels:{},
   };
-  const levelDirArray=getDirectories(ROOT_DIR+item+"/",exclude);
+  const levelDirArray=getDirectories(ROOT_DIR+item,exclude);
 
   for(let j=0;j< levelDirArray.length;j++){
     const level=levelDirArray[j];
-    const files=getDirectories(ROOT_DIR+item+'/'+level,exclude);
+    if(getDirectories(ROOT_DIR+item+'/'+level,exclude)){
+       const files=getDirectories(ROOT_DIR+item+'/'+level,exclude);
+    }
     superitem['levels'][level] =files;
   }
   index.push(item);
