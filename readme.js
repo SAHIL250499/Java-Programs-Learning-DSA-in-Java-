@@ -47,7 +47,7 @@ for(let i=0;i<catDirArray.length;i++){
 let Pipe='|';
 
 for(let i=0;i<index.length;i++){
-    let item=superitem[i].item;
+    let item=index[i].item;
     Pipe+=`[${item}](${GITHUB_REPO_BLOB_URL}/# ${item.toLowerCase()}) |`;
 }
 let content=Pipe+'\n\n----\n';
