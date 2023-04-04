@@ -33,7 +33,6 @@ for(let i=0;i<catDirArray.length;i++){
 
   for(let j=0;j< levelDirArray.length;j++){
     const level=levelDirArray[j];
-<<<<<<< HEAD
     const stats=fs.statSync(ROOT_DIR+item+'/'+level);
     if(stats){
         let files=getDirectories(ROOT_DIR+item+'/'+level,exclude);
@@ -43,7 +42,6 @@ for(let i=0;i<catDirArray.length;i++){
         superitem['levels'][level]=[level];
     }
 
-=======
     const stats = fs.statSync(ROOT_DIR+item+'/'+level);
     if(stats){
     const files=getDirectories(ROOT_DIR+item+'/'+level,exclude);
@@ -52,8 +50,7 @@ for(let i=0;i<catDirArray.length;i++){
     const files=[];
     }
     superitem['levels'][level] =files;
-    
->>>>>>> 9bb4f2a1599c0ef169ef639be5b85405d46f0fe1
+
   }
   index.push(superitem);
 }
