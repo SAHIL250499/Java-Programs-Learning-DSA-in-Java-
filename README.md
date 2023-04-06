@@ -1,10 +1,10 @@
-Total Problems Solved - 10
+Total Problems Solved - 13
 
-Easy - 3,Medium - 3,Hard - 2
+Easy - 4,Medium - 3,Hard - 2
 
 Categories
 
-| [Arrays](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/#arrays) | [Functions](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/#functions) | [GFG](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/#gfg) | [LeetcodeQ](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/#leetcodeq) | [Others](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/#others) | [Sorting](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/#sorting) | [Switch](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/#switch) |
+| [Arrays](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/#arrays) | [Assignments](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/#assignments) | [Functions](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/#functions) | [GFG](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/#gfg) | [LeetcodeQ](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/#leetcodeq) | [Others](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/#others) | [Sorting](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/#sorting) | [Switch](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/#switch) |
 
 ----
 ### [Arrays](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Arrays)
@@ -15,6 +15,14 @@ Categories
 - [twoDarray](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Arrays/twoDarray)
 	 - [BinarySearch2D.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Arrays/twoDarray/BinarySearch2D.java)
 	 - [BinarySearch2Dsorted.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Arrays/twoDarray/BinarySearch2Dsorted.java)
+
+---
+### [Assignments](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Assignments)
+- [First_Java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Assignments/First_Java)
+	 - [Q1EvenorOdd.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Assignments/First_Java/Q1EvenorOdd.java)
+
+- [Searching](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Assignments/Searching)
+	 - [SquareRoot.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Assignments/Searching/SquareRoot.java)
 
 ---
 ### [Functions](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Functions)
@@ -40,6 +48,7 @@ Categories
 	 - [EvenDigitsLeetcode1295.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Easy/EvenDigitsLeetcode1295.java)
 	 - [RichestCLeetcode1672.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Easy/RichestCLeetcode1672.java)
 	 - [SmallestLetterLeetcode744.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Easy/SmallestLetterLeetcode744.java)
+	 - [SquareRootLeetcode69.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Easy/SquareRootLeetcode69.java)
 
 - [Hard](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Hard)
 	 - [FindMountainArrayLeetcode1095.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Hard/FindMountainArrayLeetcode1095.java)
