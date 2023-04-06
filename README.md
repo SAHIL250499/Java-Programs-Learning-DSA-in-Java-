@@ -1,4 +1,4 @@
-Total Problems Solved - 8
+Total Problems Solved - 10
 
 Easy - 3,Medium - 3,Hard - 2
 
@@ -11,6 +11,10 @@ Categories
 - [Array1.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Arrays/Array1.java)
 
 - [MultiDimensional.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Arrays/MultiDimensional.java)
+
+- [twoDarray](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Arrays/twoDarray)
+	 - [BinarySearch2D.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Arrays/twoDarray/BinarySearch2D.java)
+	 - [BinarySearch2Dsorted.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Arrays/twoDarray/BinarySearch2Dsorted.java)
 
 ---
 ### [Functions](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Functions)
