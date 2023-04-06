@@ -1,5 +1,5 @@
 const fs=require('fs');
-const exclude=['.git','.github','README.md','package.json','readme.js',''];
+const exclude=['.git','.github','README.md','package.json','readme.js','.gitignore'];
 const ROOT_DIR = './';
 const index = [];
 
