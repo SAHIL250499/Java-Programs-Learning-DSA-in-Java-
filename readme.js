@@ -88,7 +88,7 @@ for(let i=0;i<index.length;i++){
 
 }
 
-let prepend=`Total Problems Solved - ${count}\n\nEasy - ${easy},Medium - ${medium},Hard - ${hard}\n\nCategories\n\n`;
+let prepend=`Total Problems Solved - ${easy+medium+hard}\n\nEasy - ${easy},Medium - ${medium},Hard - ${hard}\n\nCategories\n\n`;
 
 
 
