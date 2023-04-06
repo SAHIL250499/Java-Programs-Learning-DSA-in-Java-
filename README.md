@@ -1,4 +1,4 @@
-Total Problems Solved - 13
+Total Problems Solved - 9
 
 Easy - 4,Medium - 3,Hard - 2
 
