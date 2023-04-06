@@ -4,7 +4,7 @@ Easy - 3,Medium - 3,Hard - 2
 
 Categories
 
-| [Arrays](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/#arrays) | [Functions](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/#functions) | [GFG](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/#gfg) | [LeetcodeQ](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/#leetcodeq) | [Others](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/#others) | [Switch](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/#switch) |
+| [Arrays](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/#arrays) | [Functions](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/#functions) | [GFG](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/#gfg) | [LeetcodeQ](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/#leetcodeq) | [Others](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/#others) | [Sorting](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/#sorting) | [Switch](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/#switch) |
 
 ----
 ### [Arrays](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Arrays)
@@ -67,6 +67,10 @@ Categories
 - [OrderAgnosticBinarySearch.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Others/OrderAgnosticBinarySearch.java)
 
 - [Reverse_number.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Others/Reverse_number.java)
+
+---
+### [Sorting](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Sorting)
+- [BubbleSortorExchangeSort.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Sorting/BubbleSortorExchangeSort.java)
 
 ---
 ### [Switch](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Switch)
