@@ -3,7 +3,7 @@ package Others;
 public class Ceiling {
     public static void main(String[] args) {
         int[] arr={2,5,9,14,16,18};
-        System.out.println(Ceiling(arr,1));
+        System.out.println(Ceiling(arr,4));
 
     }
     static int Ceiling(int[] arr,int target){

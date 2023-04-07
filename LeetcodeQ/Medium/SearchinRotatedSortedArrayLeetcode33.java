@@ -2,11 +2,11 @@ package LeetcodeQ.Medium;
 //https://leetcode.com/problems/search-in-rotated-sorted-array/
 public class SearchinRotatedSortedArrayLeetcode33 {
     public static void main(String[] args) {
-        int[] nums = {4,5,6,7,0,1,2};
+        int[] nums = {3,1};
         System.out.println(search(nums,0));
     }
     static int search(int[] nums,int target){
-        int pivot =findpivot(nums);
+        int pivot =findpivot1Duplicates(nums);
         if(pivot==-1){
             return binarysearch(nums,target,0,nums.length-1);
         }
