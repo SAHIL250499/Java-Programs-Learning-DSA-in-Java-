@@ -1,6 +1,6 @@
-Total Problems Solved - 9
+Total Problems Solved - 11
 
-Easy - 4,Medium - 3,Hard - 2
+Easy - 5,Medium - 4,Hard - 2
 
 Categories
 
@@ -22,6 +22,9 @@ Categories
 	 - [Q1EvenorOdd.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Assignments/First_Java/Q1EvenorOdd.java)
 
 - [Searching](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Assignments/Searching)
+	 - [GuessNumberHigherorLower.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Assignments/Searching/GuessNumberHigherorLower.java)
+	 - [MedianofTwoSortedArrays.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Assignments/Searching/MedianofTwoSortedArrays.java)
+	 - [SingleElementinSortedArray.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Assignments/Searching/SingleElementinSortedArray.java)
 	 - [SquareRoot.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Assignments/Searching/SquareRoot.java)
 
 ---
@@ -46,6 +49,7 @@ Categories
 ### [LeetcodeQ](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ)
 - [Easy](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Easy)
 	 - [EvenDigitsLeetcode1295.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Easy/EvenDigitsLeetcode1295.java)
+	 - [GuessNumberHigherorLowerLeetcode374.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Easy/GuessNumberHigherorLowerLeetcode374.java)
 	 - [RichestCLeetcode1672.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Easy/RichestCLeetcode1672.java)
 	 - [SmallestLetterLeetcode744.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Easy/SmallestLetterLeetcode744.java)
 	 - [SquareRootLeetcode69.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Easy/SquareRootLeetcode69.java)
@@ -58,6 +62,7 @@ Categories
 	 - [FindFandLPosLeetcose34.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Medium/FindFandLPosLeetcose34.java)
 	 - [PeakIndexLeetcode852.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Medium/PeakIndexLeetcode852.java)
 	 - [SearchinRotatedSortedArrayLeetcode33.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Medium/SearchinRotatedSortedArrayLeetcode33.java)
+	 - [SingleElementinSortedArrayLeetcode540.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Medium/SingleElementinSortedArrayLeetcode540.java)
 
 ---
 ### [Others](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Others)
