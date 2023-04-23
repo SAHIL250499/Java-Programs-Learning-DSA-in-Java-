@@ -91,6 +91,8 @@ Categories
 ### [Sorting](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Sorting)
 - [BubbleSortorExchangeSort.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Sorting/BubbleSortorExchangeSort.java)
 
+- [InsertionSort.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Sorting/InsertionSort.java)
+
 - [SelectionSort.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Sorting/SelectionSort.java)
 
 ---
