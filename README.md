@@ -1,6 +1,6 @@
-Total Problems Solved - 14
+Total Problems Solved - 16
 
-Easy - 7,Medium - 5,Hard - 2
+Easy - 8,Medium - 6,Hard - 2
 
 Categories
 
@@ -48,13 +48,14 @@ Categories
 ---
 ### [LeetcodeQ](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ)
 - [Easy](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Easy)
+	 - [BuildArrayLeetcode1920.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Easy/BuildArrayLeetcode1920.java)
 	 - [EvenDigitsLeetcode1295.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Easy/EvenDigitsLeetcode1295.java)
 	 - [FirstBasversionLeetcode278.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Easy/FirstBasversionLeetcode278.java)
 	 - [GuessNumberHigherorLowerLeetcode374.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Easy/GuessNumberHigherorLowerLeetcode374.java)
 	 - [RichestCLeetcode1672.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Easy/RichestCLeetcode1672.java)
 	 - [SmallestLetterLeetcode744.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Easy/SmallestLetterLeetcode744.java)
 	 - [SquareRootLeetcode69.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Easy/SquareRootLeetcode69.java)
-	 - [TwosumIILeetcode167.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Easy/TwosumIILeetcode167.java)
+	 - [validperfectsquareLeetcode367.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Easy/validperfectsquareLeetcode367.java)
 
 - [Hard](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Hard)
 	 - [FindMountainArrayLeetcode1095.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Hard/FindMountainArrayLeetcode1095.java)
@@ -66,6 +67,7 @@ Categories
 	 - [ReachNumberLeetcode754.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Medium/ReachNumberLeetcode754.java)
 	 - [SearchinRotatedSortedArrayLeetcode33.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Medium/SearchinRotatedSortedArrayLeetcode33.java)
 	 - [SingleElementinSortedArrayLeetcode540.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Medium/SingleElementinSortedArrayLeetcode540.java)
+	 - [TwosumIILeetcode167.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Medium/TwosumIILeetcode167.java)
 
 ---
 ### [Others](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Others)
