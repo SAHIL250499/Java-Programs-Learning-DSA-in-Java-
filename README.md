@@ -1,6 +1,6 @@
-Total Problems Solved - 16
+Total Problems Solved - 17
 
-Easy - 8,Medium - 6,Hard - 2
+Easy - 9,Medium - 6,Hard - 2
 
 Categories
 
@@ -52,6 +52,7 @@ Categories
 	 - [EvenDigitsLeetcode1295.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Easy/EvenDigitsLeetcode1295.java)
 	 - [FirstBasversionLeetcode278.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Easy/FirstBasversionLeetcode278.java)
 	 - [GuessNumberHigherorLowerLeetcode374.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Easy/GuessNumberHigherorLowerLeetcode374.java)
+	 - [MissingNumberLeetcode268.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Easy/MissingNumberLeetcode268.java)
 	 - [RichestCLeetcode1672.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Easy/RichestCLeetcode1672.java)
 	 - [SmallestLetterLeetcode744.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Easy/SmallestLetterLeetcode744.java)
 	 - [SquareRootLeetcode69.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Easy/SquareRootLeetcode69.java)
@@ -90,6 +91,8 @@ Categories
 ---
 ### [Sorting](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Sorting)
 - [BubbleSortorExchangeSort.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Sorting/BubbleSortorExchangeSort.java)
+
+- [CyclicSort.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Sorting/CyclicSort.java)
 
 - [InsertionSort.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Sorting/InsertionSort.java)
 
