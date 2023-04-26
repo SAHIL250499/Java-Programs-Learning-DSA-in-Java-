@@ -1,6 +1,6 @@
-Total Problems Solved - 18
+Total Problems Solved - 19
 
-Easy - 10,Medium - 6,Hard - 2
+Easy - 10,Medium - 7,Hard - 2
 
 Categories
 
@@ -64,6 +64,7 @@ Categories
 	 - [SplitArrayLargestSumLeetcode410.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Hard/SplitArrayLargestSumLeetcode410.java)
 
 - [Medium](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Medium)
+	 - [FindDuplicateNumberLeetcode287.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Medium/FindDuplicateNumberLeetcode287.java)
 	 - [FindFandLPosLeetcose34.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Medium/FindFandLPosLeetcose34.java)
 	 - [PeakIndexLeetcode852.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Medium/PeakIndexLeetcode852.java)
 	 - [ReachNumberLeetcode754.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Medium/ReachNumberLeetcode754.java)
