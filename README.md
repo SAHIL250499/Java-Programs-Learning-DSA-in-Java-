@@ -1,6 +1,6 @@
-Total Problems Solved - 17
+Total Problems Solved - 18
 
-Easy - 9,Medium - 6,Hard - 2
+Easy - 10,Medium - 6,Hard - 2
 
 Categories
 
@@ -50,6 +50,7 @@ Categories
 - [Easy](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Easy)
 	 - [BuildArrayLeetcode1920.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Easy/BuildArrayLeetcode1920.java)
 	 - [EvenDigitsLeetcode1295.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Easy/EvenDigitsLeetcode1295.java)
+	 - [FindAllnumbersDisappearedLeetcode448.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Easy/FindAllnumbersDisappearedLeetcode448.java)
 	 - [FirstBasversionLeetcode278.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Easy/FirstBasversionLeetcode278.java)
 	 - [GuessNumberHigherorLowerLeetcode374.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Easy/GuessNumberHigherorLowerLeetcode374.java)
 	 - [MissingNumberLeetcode268.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Easy/MissingNumberLeetcode268.java)
