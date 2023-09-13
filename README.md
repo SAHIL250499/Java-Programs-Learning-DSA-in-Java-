@@ -1,6 +1,6 @@
-Total Problems Solved - 19
+Total Problems Solved - 22
 
-Easy - 10,Medium - 7,Hard - 2
+Easy - 11,Medium - 8,Hard - 3
 
 Categories
 
@@ -55,15 +55,18 @@ Categories
 	 - [GuessNumberHigherorLowerLeetcode374.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Easy/GuessNumberHigherorLowerLeetcode374.java)
 	 - [MissingNumberLeetcode268.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Easy/MissingNumberLeetcode268.java)
 	 - [RichestCLeetcode1672.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Easy/RichestCLeetcode1672.java)
+	 - [SetMismatchLeetcode645.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Easy/SetMismatchLeetcode645.java)
 	 - [SmallestLetterLeetcode744.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Easy/SmallestLetterLeetcode744.java)
 	 - [SquareRootLeetcode69.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Easy/SquareRootLeetcode69.java)
 	 - [validperfectsquareLeetcode367.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Easy/validperfectsquareLeetcode367.java)
 
 - [Hard](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Hard)
 	 - [FindMountainArrayLeetcode1095.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Hard/FindMountainArrayLeetcode1095.java)
+	 - [FirstMissingPositiveLeetcode41.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Hard/FirstMissingPositiveLeetcode41.java)
 	 - [SplitArrayLargestSumLeetcode410.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Hard/SplitArrayLargestSumLeetcode410.java)
 
 - [Medium](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Medium)
+	 - [FindAllDuplicatedLeetcode442.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Medium/FindAllDuplicatedLeetcode442.java)
 	 - [FindDuplicateNumberLeetcode287.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Medium/FindDuplicateNumberLeetcode287.java)
 	 - [FindFandLPosLeetcose34.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Medium/FindFandLPosLeetcose34.java)
 	 - [PeakIndexLeetcode852.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Medium/PeakIndexLeetcode852.java)
