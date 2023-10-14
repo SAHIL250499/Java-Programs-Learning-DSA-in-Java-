@@ -1,10 +1,10 @@
-Total Problems Solved - 24
+Total Problems Solved - 28
 
-Easy - 12,Medium - 9,Hard - 3
+Easy - 13,Medium - 12,Hard - 3
 
 Categories
 
-| [Arrays](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/#arrays) | [Assignments](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/#assignments) | [Functions](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/#functions) | [GFG](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/#gfg) | [LeetcodeQ](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/#leetcodeq) | [MathsForDSA](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/#mathsfordsa) | [NumberSystems](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/#numbersystems) | [Others](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/#others) | [Patterns](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/#patterns) | [Recursion](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/#recursion) | [Sorting](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/#sorting) | [Strings](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/#strings) | [Switch](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/#switch) |
+| [Arrays](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/#arrays) | [Assignments](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/#assignments) | [Functions](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/#functions) | [GFG](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/#gfg) | [LeetcodeQ](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/#leetcodeq) | [MathsForDSA](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/#mathsfordsa) | [NumberSystems](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/#numbersystems) | [Others](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/#others) | [Patterns](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/#patterns) | [Recursion](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/#recursion) | [Sorting](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/#sorting) | [Strings](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/#strings) | [Switch](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/#switch) | [geekforgeeksprobs](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/#geekforgeeksprobs) |
 
 ----
 ### [Arrays](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Arrays)
@@ -55,6 +55,7 @@ Categories
 	 - [GuessNumberHigherorLowerLeetcode374.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Easy/GuessNumberHigherorLowerLeetcode374.java)
 	 - [MissingNumberLeetcode268.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Easy/MissingNumberLeetcode268.java)
 	 - [NumberOfStepstoReducetoZero1342.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Easy/NumberOfStepstoReducetoZero1342.java)
+	 - [PascalTriangleLeetcode118.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Easy/PascalTriangleLeetcode118.java)
 	 - [RichestCLeetcode1672.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Easy/RichestCLeetcode1672.java)
 	 - [SetMismatchLeetcode645.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Easy/SetMismatchLeetcode645.java)
 	 - [SmallestLetterLeetcode744.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Easy/SmallestLetterLeetcode744.java)
@@ -71,9 +72,12 @@ Categories
 	 - [FindAllDuplicatedLeetcode442.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Medium/FindAllDuplicatedLeetcode442.java)
 	 - [FindDuplicateNumberLeetcode287.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Medium/FindDuplicateNumberLeetcode287.java)
 	 - [FindFandLPosLeetcose34.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Medium/FindFandLPosLeetcose34.java)
+	 - [MaximumSubarray.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Medium/MaximumSubarray.java)
+	 - [NextPermutationLeetcode31.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Medium/NextPermutationLeetcode31.java)
 	 - [PeakIndexLeetcode852.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Medium/PeakIndexLeetcode852.java)
 	 - [ReachNumberLeetcode754.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Medium/ReachNumberLeetcode754.java)
 	 - [SearchinRotatedSortedArrayLeetcode33.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Medium/SearchinRotatedSortedArrayLeetcode33.java)
+	 - [SetMatrixZeroes73.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Medium/SetMatrixZeroes73.java)
 	 - [SingleElementinSortedArrayLeetcode540.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Medium/SingleElementinSortedArrayLeetcode540.java)
 	 - [TwosumIILeetcode167.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Medium/TwosumIILeetcode167.java)
 
@@ -139,7 +143,15 @@ Categories
 
 - [NumbersExample.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Recursion/NumbersExample.java)
 
+- [Sorting](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Recursion/Sorting)
+	 - [BubbleSort.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Recursion/Sorting/BubbleSort.java)
+	 - [MergeSort.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Recursion/Sorting/MergeSort.java)
+	 - [SelectionSort.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Recursion/Sorting/SelectionSort.java)
+	 - [Triangle.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Recursion/Sorting/Triangle.java)
+
 - [arrays](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Recursion/arrays)
+	 - [LinearSearch.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Recursion/arrays/LinearSearch.java)
+	 - [RbinSearch.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Recursion/arrays/RbinSearch.java)
 	 - [Sortedornot.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Recursion/arrays/Sortedornot.java)
 
 - [easy](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Recursion/easy)
@@ -175,5 +187,9 @@ Categories
 ---
 ### [Switch](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Switch)
 - [test.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Switch/test.java)
+
+---
+### [geekforgeeksprobs](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/geekforgeeksprobs)
+- [SubsetSums.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/geekforgeeksprobs/SubsetSums.java)
 
 ---
