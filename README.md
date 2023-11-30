@@ -12,6 +12,8 @@ Categories
 
 - [MultiDimensional.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Arrays/MultiDimensional.java)
 
+- [Test.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Arrays/Test.java)
+
 - [twoDarray](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Arrays/twoDarray)
 	 - [BinarySearch2D.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Arrays/twoDarray/BinarySearch2D.java)
 	 - [BinarySearch2Dsorted.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Arrays/twoDarray/BinarySearch2Dsorted.java)
@@ -47,6 +49,8 @@ Categories
 
 ---
 ### [Hackerearth](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Hackerearth)
+- [BobQuest.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Hackerearth/BobQuest.java)
+
 - [FindPairs.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Hackerearth/FindPairs.java)
 
 - [SwapSum.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Hackerearth/SwapSum.java)
