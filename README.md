@@ -1,6 +1,6 @@
-Total Problems Solved - 36
+Total Problems Solved - 37
 
-Easy - 17,Medium - 15,Hard - 4
+Easy - 17,Medium - 16,Hard - 4
 
 Categories
 
@@ -107,6 +107,7 @@ Categories
 	 - [MaximumSubarray.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Medium/MaximumSubarray.java)
 	 - [MinimumPlatformsGeekForGeeks.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Medium/MinimumPlatformsGeekForGeeks.java)
 	 - [NextPermutationLeetcode31.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Medium/NextPermutationLeetcode31.java)
+	 - [NumberofIslandsLeetcode_200.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Medium/NumberofIslandsLeetcode_200.java)
 	 - [PeakIndexLeetcode852.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Medium/PeakIndexLeetcode852.java)
 	 - [ReachNumberLeetcode754.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Medium/ReachNumberLeetcode754.java)
 	 - [SearchinRotatedSortedArrayLeetcode33.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/LeetcodeQ/Medium/SearchinRotatedSortedArrayLeetcode33.java)
@@ -128,6 +129,8 @@ Categories
 ---
 ### [Maps](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Maps)
 - [BFSImplement.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Maps/BFSImplement.java)
+
+- [BipartiteLeetcode_785.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Maps/BipartiteLeetcode_785.java)
 
 - [DFSImplement.java](https://github.com/SAHIL250499/Java-Programs-Learning-DSA-in-java/blob/main/Maps/DFSImplement.java)
 
